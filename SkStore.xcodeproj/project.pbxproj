@@ -207,7 +207,7 @@
 				TargetAttributes = {
 					F67231F21E8F91EC00BC7B8B = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = WQ6CLJB2Y6;
+						DevelopmentTeam = S6UQPQ9V64;
 						ProvisioningStyle = Automatic;
 					};
 					F672320B1E8F91EC00BC7B8B = {
@@ -429,10 +429,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WQ6CLJB2Y6;
+				DEVELOPMENT_TEAM = S6UQPQ9V64;
 				INFOPLIST_FILE = SkStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shanghaiOnstar.SkStore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shanghaiOnstar.onstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -441,10 +441,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = WQ6CLJB2Y6;
+				DEVELOPMENT_TEAM = S6UQPQ9V64;
 				INFOPLIST_FILE = SkStore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shanghaiOnstar.SkStore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shanghaiOnstar.onstar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
